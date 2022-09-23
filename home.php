@@ -15,6 +15,9 @@ if(!isset($_SESSION["logueado"]) && !$_SESSION["logueado"]){
 </head>
 <body>
 <header>
+
+
+
     <div class="d-flex flex-row justify-content-between p-3 mb-5">
         <div> Logo</div>
         <div><h1>Pokedex</h1></div>
